@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.2.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -61,6 +62,30 @@ flutter:
   assets:
     - image/home.png
     - image/homme.png
+    - image/persone.png
+    - image/image.png
+    - image/cri_1.png
+    - image/cri_2.png
+    - image/camera.png
+    - image/add.png
+    - image/user.png
+    - image/user_settings.png
+    - image/search.png
+    - image/next.png
+    - image/garcon.png
+    - image/job.png
+    - image/user_1.png
+    - image/maison.png
+    - image/fishier.png
+    - image/user_2.png
+    - image/pompier.png
+    - image/parametre.png
+    - image/canos.png
+    - image/repaire.png
+    - image/tuter.png
+    - image/cleaning.png
+    - image/electrecien.png
+    - image/job_1.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
